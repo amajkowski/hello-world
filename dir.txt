@@ -1,6 +1,7 @@
-Tu damy nag³ówek
+Tu damy nagÅ‚Ã³wek
+ ZawartoÄ‡ katalogu
  Volume in drive C is Windows8_OS
- Volume Serial Number is 0CBA-20F0
+ Volume Serial Number is 0CBA-20
 
  Directory of C:\work\kasuj\hello-world
 
@@ -9,4 +10,4 @@ Tu damy nag³ówek
 2016-04-04  14:57                 0 dir.txt
 2016-04-04  14:55                47 README.md
                2 File(s)             47 bytes
-               2 Dir(s)  234ÿ704ÿ162ÿ816 bytes free
+               2 Dir(s)  234Ã¿704Ã¿162Ã¿816 bytes free
