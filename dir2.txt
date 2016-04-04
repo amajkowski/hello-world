@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 0CBA-20F0
+
+ Directory of C:\work\kasuj\hello-world
+
+2016-04-04  14:57    <DIR>          .
+2016-04-04  14:57    <DIR>          ..
+2016-04-04  14:57               387 dir.txt
+2016-04-04  14:57                 0 dir2.txt
+2016-04-04  14:55                47 README.md
+               3 File(s)            434 bytes
+               2 Dir(s)  234ÿ704ÿ166ÿ912 bytes free
