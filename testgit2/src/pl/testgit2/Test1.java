@@ -6,6 +6,8 @@ public class Test1 {
 		Test1 t = new Test1();
 		t.fru();
 		t.workHard();
+		Test2 t2 = new Test2();
+		t2.workVeryHard();
 	}
 
 	private void workHard() {
