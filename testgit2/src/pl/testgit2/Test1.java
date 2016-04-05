@@ -8,7 +8,7 @@ public class Test1 {
 	}
 
 	private void fru() {
-		System.out.println("fru");
+		System.out.println("fru 101");
 	}
 
 }
