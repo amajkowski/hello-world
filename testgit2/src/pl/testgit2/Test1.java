@@ -8,6 +8,8 @@ public class Test1 {
 		t.workHard();
 		Test2 t2 = new Test2();
 		t2.workVeryHard();
+		Test3 t3 = new Test3();
+		t3.workLazy();
 	}
 
 	private void workHard() {
