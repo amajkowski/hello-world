@@ -2,6 +2,6 @@ package pl.testgit2;
 
 class Test3 {
   void workLazy() {
-	  System.out.println(1);
+	  System.out.println(2);
   }
 }
