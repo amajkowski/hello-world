@@ -5,15 +5,15 @@ public class Test1 {
 	public static void main(String[] args) {
 		Test1 t = new Test1();
 		t.fru();
-		t.workHard();
+		t.workHard(6);
 		Test2 t2 = new Test2();
 		t2.workVeryHard();
 		Test3 t3 = new Test3();
 		t3.workLazy();
 	}
 
-	private void workHard() {
-		for(int i=0; i<6; i++) {
+	private void workHard(int ile) {
+		for(int i=0; i<ile; i++) {
 			System.out.println(i);
 		}
 	}
