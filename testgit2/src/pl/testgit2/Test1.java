@@ -5,7 +5,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		Test1 t = new Test1();
 		t.fru();
-		t.workHard(6);
+		t.workHard(7);
 		Test2 t2 = new Test2();
 		t2.workVeryHard();
 		Test3 t3 = new Test3();
