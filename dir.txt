@@ -1,3 +1,4 @@
+Tu damy nagłówek
  Zawartoć katalogu
  Volume in drive C is Windows8_OS
  Volume Serial Number is 0CBA-20
